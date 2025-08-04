@@ -8,3 +8,5 @@ python app.py
 
 #test 
 python test/tests.py
+
+extensive readme file is provided with in the project files. please refer that for more information
